@@ -1,0 +1,33 @@
+{
+  "Dress": [
+    { "Name": "XS" },
+    { "Name": "S" },
+    { "Name": "M" },
+    { "Name": "L" },
+    { "Name": "XL" },
+    { "Name": "XXL" }
+  ],
+  "Shoe": [
+    { "Name": "4" },
+    { "Name": "4.5" },
+    { "Name": "5" },
+    { "Name": "5.5" },
+    { "Name": "6" },
+    { "Name": "6.5" },
+    { "Name": "7" },
+    { "Name": "7.5" },
+    { "Name": "8" },
+    { "Name": "8.5" }
+  ],
+  "AllColors": [
+    { "Name": "Black", "Color": "#17202A" },
+    { "Name": "Gray", "Color": "#839192" },
+    { "Name": "White", "Color": "#FDFEFE" },
+    { "Name": "Violet", "Color": "#9400D3" },
+    { "Name": "Blue", "Color": "#3498DB" },
+    { "Name": "Green", "Color": "#16A085" },
+    { "Name": "Yellow", "Color": "#FFFF00" },
+    { "Name": "Red", "Color": "#E74C3C" },
+    { "Name": "Peach", "Color": "#FAE5D3" }
+  ]
+}
